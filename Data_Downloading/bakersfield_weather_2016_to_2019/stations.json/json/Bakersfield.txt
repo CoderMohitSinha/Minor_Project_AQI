@@ -1,0 +1,25 @@
+"id": "72384",
+        "name": {
+            "en": "Bakersfield Meadows Field"
+        },
+        "country": "US",
+        "region": "CA",
+        "national": null,
+        "wmo": "72384",
+        "icao": "KBFL",
+        "iata": "BFL",
+        "latitude": 35.4333,
+        "longitude": -119.05,
+        "elevation": 155,
+        "timezone": "America\/Los_Angeles",
+        "inventory": {
+            "hourly": {
+                "start": "1973-01-01",
+                "end": "2020-06-07"
+            },
+            "daily": {
+                "start": "1937-10-01",
+                "end": "2020-05-30"
+            }
+        }
+    }
